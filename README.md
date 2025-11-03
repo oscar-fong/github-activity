@@ -1,8 +1,8 @@
 # GitHub User Activity CLI with PHP
 
-This simple program outputs user activity using GitHub public API based on username. Summarizes events by type and repository
+This simple program outputs user activity using GitHub public API based on username. Summarizes events by type and repository.
 
-Example
+Example:
 
 ```bash
 $ php github-activity.php oscar-fong
@@ -20,6 +20,6 @@ With this project I learned:
 
 - HTTP/HTTPS requests, methods, headers and bodies
 - How to consume a public API and read its documentation to follow syntax and format specification
-- Transform HTTP bodies into readable and flexible data (an Array) to filter, process and lookup fields and data.
-- Use loops to iterate over data.
+- Transform HTTP bodies into readable and flexible data (an Array) to filter, process and lookup fields and data
+- Use loops to iterate over data
 
