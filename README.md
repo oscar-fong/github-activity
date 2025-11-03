@@ -1,6 +1,6 @@
 # GitHub User Activity CLI with PHP
 
-This simple program outputs user activity using GitHub public API based on username. Summarizes events by type and repository.
+This simple program outputs user activity using GitHub's public API based on username. Summarizes events by type and repository.
 
 Example:
 
